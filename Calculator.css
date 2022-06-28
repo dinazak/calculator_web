@@ -1,0 +1,35 @@
+
+*{
+	margin:3;
+	padding:13;
+	box-sizing: border;
+}
+body{
+	font-family: Cursive;
+	font-weight: bolder;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	padding: 100px;
+	background-image: url("mathh.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+}
+.main{
+
+	border-radius:20px;
+	background: rgba(90, 83, 83, 0.39);;
+}
+input[type="text"]{
+	width:280px;
+}
+input[type="button"]{
+	width:60px;
+
+}
+#c{
+	width:280;
+}
+
+
